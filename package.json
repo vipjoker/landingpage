@@ -1,0 +1,17 @@
+{
+  "name": "material",
+  "version": "1.0.0",
+  "description": "material demo",
+  "main": "index.js",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.2.2"
+  },
+  "dependencies": {
+    "materialize-css": "^0.97.7"
+  }
+}
